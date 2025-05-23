@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICS2O-Unit5-01PHP-HTML-MDL -->
+<!-- ICS2O-Unit5-08-PHP-HTML-MDL -->
 <html lang="en-ca">
 
 <head>
@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Division-6.webp" alt="long division" />
+        <img src="./images/division.png" alt="division" />
       </div>
       <div class="page-content-php">
         <div id="user-info">
